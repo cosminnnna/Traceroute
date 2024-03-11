@@ -1,0 +1,160 @@
+1. Pentru site-ul unisa.ac.za:
+
+Traceroute to 163.200.81.55
+1 172.28.0.1
+Nu s-a găsit informații pentru adresa IP specificată.
+
+2 172.28.0.1
+Nu s-a găsit informații pentru adresa IP specificată.
+
+3 172.28.0.1
+Nu s-a găsit informații pentru adresa IP specificată.
+
+4 172.28.0.1
+Nu s-a găsit informații pentru adresa IP specificată.
+
+5 172.28.0.1
+Nu s-a găsit informații pentru adresa IP specificată.
+
+6 172.28.0.1
+Nu s-a găsit informații pentru adresa IP specificată.
+
+7 172.253.69.235
+Informații despre locație:
+Oraș: Johannesburg
+Regiune: Gauteng
+Țară: ZA
+
+8 155.232.128.71
+Informații despre locație:
+Oraș: Johannesburg
+Regiune: Gauteng
+Țară: ZA
+
+9 155.232.1.97
+Informații despre locație:
+Oraș: Johannesburg
+Regiune: Gauteng
+Țară: ZA
+
+10 163.200.81.55
+Informații despre locație:
+Oraș: Johannesburg
+Regiune: Gauteng
+Țară: ZA
+
+
+
+
+2. Pentru site-ul news.cn:
+
+Tasteaza '0' pentru a introduce site-ul destinatie sau '1' pentru adresa IP destinatie:0
+Site destinatie: news.cn
+TTL: 30
+timeout: 20
+Traceroute catre destinatia  202.108.119.193 :
+1  172.28.0.1
+Nu s-au gasit informatii pentru adresa IP data.
+
+
+2  108.170.234.132
+Informații despre locație:
+Oraș: Reston
+Regiune: Virginia
+Țară: US
+
+
+3  *
+
+4  63.243.137.133
+Informații despre locație:
+Oraș: Ashburn
+Regiune: Virginia
+Țară: US
+
+
+5  216.6.87.29
+Informații despre locație:
+Oraș: Oak Hill
+Regiune: Virginia
+Țară: US
+
+
+6  202.97.93.209
+Informații despre locație:
+Oraș: Fremont
+Regiune: California
+Țară: US
+
+
+7  *
+
+8  202.97.53.73
+Informații despre locație:
+Oraș: Beijing
+Regiune: Beijing
+Țară: CN
+
+
+
+3. Pentru site-ul australia.gov.au:
+
+Traceroute catre destinatia  13.107.253.40 :
+1  172.28.0.1
+Nu s-au gasit informatii pentru adresa IP data.
+
+
+2  209.85.251.172
+Informații despre locație:
+Oraș: Atlanta
+Regiune: Georgia
+Țară: US
+
+
+3  *
+
+4  104.44.239.224
+Informații despre locație:
+Oraș: East Point
+Regiune: Georgia
+Țară: US
+
+
+5  104.44.33.241
+Informații despre locație:
+Oraș: East Point
+Regiune: Georgia
+Țară: US
+
+
+6  104.44.17.230
+Informații despre locație:
+Oraș: Floris
+Regiune: Virginia
+Țară: US
+
+
+7  104.44.21.63
+Informații despre locație:
+Oraș: Wake Forest
+Regiune: North Carolina
+Țară: US
+
+
+8  *
+
+9  *
+
+10  *
+
+11  *
+
+12  *
+
+13  *
+
+14  13.107.253.40
+Informații despre locație:
+Oraș: Redmond
+Regiune: Washington
+Țară: US
